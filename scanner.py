@@ -1,10 +1,3 @@
-#Idea: write a containerized port scanner that uses a different IP than the host (IP Spoofing)
-#Idea: check for filtered ports
-#Idea: Multi threaded socket programming
-#Idea: NMAP
-#Based on open ports, auto-suggest suitable nmap scripts
-#Support for calling nmap thru the tool?
-
 import socket
 import re
 
